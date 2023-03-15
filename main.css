@@ -1,0 +1,63 @@
+        body {
+            background-color: gold;
+            font-family: Arial, Helvetica, sans-serif;
+              
+        }
+        header,
+        main {
+            margin-left: 35%;
+            margin-right: 40%;
+            text-align: center
+        }
+
+        
+        header {
+            width: 30%;
+        
+            
+            
+        }
+        main {
+
+        }
+        div {
+            width: 120%;
+            
+        }
+        h1 {
+            font-size: 37px ;
+            
+        }
+        p {
+            font-size: 14px;
+            font-weight: bold;
+           
+        }
+        span {
+            font-size: 10px;
+            font-weight: lighter;
+        
+
+        }
+        a {
+            margin: 1em;
+            padding: 1em;
+            padding-left: 3.5em;
+            padding-right: 3.5em;
+            text-transform: uppercase;
+            text-decoration: none;
+            font-size: 10px;
+            font-weight: bold;
+            background-color: black;
+            color: white;
+            border-radius: 0.5em;
+            border: 0.2em solid black;
+        }
+        a:hover {
+            background-color: white;
+            color: black;
+        }
+
+       
+        
+
